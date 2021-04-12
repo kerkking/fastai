@@ -6,3 +6,4 @@ voila
 ipywidgets
 packaging
 pillow<7
+fastbook
