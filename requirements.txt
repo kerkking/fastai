@@ -5,5 +5,4 @@ fastai==2.1.8
 voila
 ipywidgets
 packaging
-ipywidgets==7.5.1
 pillow<7
